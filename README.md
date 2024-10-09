@@ -1,0 +1,1 @@
+This project will create a page listing recipes. This will demonstrate my knowledge of adding images, using heading, and creating lists and text in HTML. It also demonstrates my git knowledge of cloning a repository and pushing files to github.
